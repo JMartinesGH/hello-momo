@@ -1,0 +1,22 @@
+{
+  "name": "hello-momo",
+  "version": "1.0.0",
+  "description": "Say hello to Momo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JMartinesGH/hello-momo.git"
+  },
+  "keywords": [
+    "momo"
+  ],
+  "author": "Momo Co",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JMartinesGH/hello-momo/issues"
+  },
+  "homepage": "https://github.com/JMartinesGH/hello-momo#readme"
+}
